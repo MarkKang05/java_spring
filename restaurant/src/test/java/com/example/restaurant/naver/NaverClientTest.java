@@ -27,6 +27,7 @@ public class NaverClientTest {
 
         var search = new SearchImageReq();
 
+
         search.setQuery("갈비집");
 
         var result = naverClient.searchImage(search);
