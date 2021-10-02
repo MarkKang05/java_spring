@@ -11,6 +11,6 @@ maxActive="50"
 username="markkang05"
 password="rhfqoddl2"
 testOnBrrow="true"
-url="jdbc:oracle:thin:@localhost:1521:xe"
+url="jdbc:oracle:thin:@klspace.asuscomm.com:4389:xe"
 />
 </Context>
