@@ -28,6 +28,12 @@
             <version>5.2.17.RELEASE</version>
         </dependency>
 
+<!--    mysql JDBC Driver-->
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>8.0.25</version>
+        </dependency>
 
         <dependency>
             <groupId>javax.servlet</groupId>
